@@ -1,0 +1,8 @@
+{
+  "estiramiento_brazo_izquierdo": {
+    "nombre": "Estiramiento Lateral Izquierdo",
+    "puntos": ["LEFT_SHOULDER", "LEFT_ELBOW", "LEFT_WRIST"],
+    "rango_esperado": [160, 180],
+    "hold_time_seconds": 3
+  }
+}
